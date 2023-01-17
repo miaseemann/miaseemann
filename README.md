@@ -41,33 +41,10 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 
 <p align = "center">
  
-[![Visits Badge](https://komarev.com/ghpvc/?username=PushpenderIndia&style=for-the-badge)](https://github.com/PushpenderIndia/PushpenderIndia)
+[![Visits Badge](https://komarev.com/ghpvc/?username=miaseemann&style=for-the-badge)](https://github.com/PushpenderIndia/PushpenderIndia)
 
 </p>
 
 </details>
 
 ---
-
-<details open>
- <summary><b>GitHub Stats</b> </summary>
-
-<br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=PushpenderIndia&show_icons=true&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PushpenderIndia&hide=css,shell">
-</p>
-
-</details>
-
-
-
-<details open> 
- <summary><b>Famous Repos</b></summary>
- <br> 
-  
-<p align = "center">
-<a href = "https://github.com/miaseemann/backend"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=miaseemann&repo=backend" /></a> <a href = "https://github.com/PushpenderIndia/technowlogger"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PushpenderIndia&repo=technowlogger" /></a> </p>
-
-</details>
