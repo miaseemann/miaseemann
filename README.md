@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Mia
-- 👀 I’m interested in many xD
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on cool projects,
-- 📫 How to reach me mia@5r4.de
-
 <!---
 miaseemann/miaseemann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -13,17 +7,17 @@ You can click the Preview link to take a look at your changes.
 ![](https://raw.githubusercontent.com/PushpenderIndia/PushpenderIndia/master/media/header.png)
 2
 
-@PushpenderIndia
+@miaseemann
 Update README.md
 7 months ago
 3
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I am Pushpender Singh! </h1>
-@PushpenderIndia
+@miaseemann
 Update README.md
 2 years ago
 4
 
-@PushpenderIndia
+@miaseemann
 Update README.md
 last year
 5
