@@ -25,7 +25,7 @@ Decent in Bash Scripting & also Just Love to Make those things which breaks thin
 | <p align="center"><img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/golang.png?raw=true" height="20%" width="20%"></p>     |                                                                                                                                                        |                                                                                                                                                        |  |    
 | <p align="center"><img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/kotlin.png?raw=true" height="20%" width="20%"></p>     |                                                                                                                                                        |                                                                                                                                                        |  |    
 
-I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white&style=plastic"> with more than [<img src = "https://img.shields.io/endpoint?&style=for-the-badge&color=E4405F&style=plastic&url=https%3A%2F%2Fyoutube-stats-badge.vercel.app%2Fapi%2Fsubscriber">](https://www.youtube.com/c/CyberAcademyHindi) where I use to share my Cyber Security & Ethical Hacking Knowledge 
+
 
 - 👨🏽‍💻 I'm Top Rated Freelancer on [Fiverr](https://de.fiverr.com/mia728ab). 
 - 🤝 Always open for any type of collaboration.
