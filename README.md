@@ -30,7 +30,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 - 👨🏽‍💻 I'm Top Rated Freelancer on [Fiverr](https://de.fiverr.com/mia728ab). 
 - 🤝 Always open for any type of collaboration.
 - 😊 Willing to contribute in opensource projects. 
-- 📫 How to reach me: singhpushpender250@gmail.com
+- 📫 How to reach me: mia@5r4.de
 - 👨‍💻 How to **Hire me** : [Fiverr]([https://www.upwork.com/freelancers/~01ee80593d3e8f9387](https://de.fiverr.com/mia728ab))
 - 💻 Linkedin Profile: [Linkedin](https://www.linkedin.com/miaseemann/)
 
