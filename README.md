@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I am Mia Seemann! </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=root@kali:~/++whoami;Ethical+Hacker;Programmer;InfoSec+Content+Creator;And+A+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=root@kali:~/++whoami;MIA+SEEMANN;Programmer;InfoSec+Free+Lancer;And+A+Web+Developer)](https://git.io/typing-svg)
 
 
 
@@ -27,7 +27,7 @@ Decent in Bash Scripting & also Just Love to Make those things which breaks thin
 
 
 
-- 👨🏽‍💻 I'm Top Rated Freelancer on [Fiverr](https://de.fiverr.com/mia728ab). 
+- 👩‍💻 I'm Top Rated Freelancer on [Fiverr](https://de.fiverr.com/mia728ab). 
 - 🤝 Always open for any type of collaboration.
 - 😊 Willing to contribute in opensource projects. 
 - 📫 How to reach me: mia@5r4.de
@@ -41,7 +41,7 @@ Decent in Bash Scripting & also Just Love to Make those things which breaks thin
 
 <p align = "center">
  
-[![Visits Badge](https://komarev.com/ghpvc/?username=miaseemann&style=for-the-badge)](https://github.com/PushpenderIndia/PushpenderIndia)
+[![Visits Badge](https://komarev.com/ghpvc/?username=miaseemann&style=for-the-badge)](https://github.com/miaseemann)
 
 </p>
 
