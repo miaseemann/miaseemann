@@ -3,6 +3,11 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I am Mia Seemann! </h1>
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=root@kali:~/++whoami;MIA+SEEMANN;Programmer;InfoSec+Free+Lancer;And+A+Web+Developer)](https://git.io/typing-svg)
+
+
+
+
 
 ![GitHub Snake Light](https://github.com/IMarkoMC/iMarkoMC/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/IMarkoMC/iMarkoMC/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
@@ -22,12 +27,6 @@
 </p>
 
 </details>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=root@kali:~/++whoami;MIA+SEEMANN;Programmer;InfoSec+Free+Lancer;And+A+Web+Developer)](https://git.io/typing-svg)
-
-
-
 
 I'm a  Web Developer, IOS, Android & Software Developer who just love to Code.
 
