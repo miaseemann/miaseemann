@@ -2,7 +2,30 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I am Mia Seemann! </h1>
 
+
+
+![GitHub Snake Light](https://github.com/IMarkoMC/iMarkoMC/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/IMarkoMC/iMarkoMC/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
+<details>
+  <summary>
+    <samp>stats</samp>
+  </summary>
+  <br>
+  <p align='center'>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=miaseemann&count_private=true&show_icons=true&theme=monokai" />
+  <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=miaseemann&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+<p align='center'>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaseemann&theme=github_dark&layout=compact&border_color=4C8EDA&card_width=445&border_radius=12" />
+</p>
+
+</details>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=root@kali:~/++whoami;MIA+SEEMANN;Programmer;InfoSec+Free+Lancer;And+A+Web+Developer)](https://git.io/typing-svg)
+
 
 
 
