@@ -36,11 +36,11 @@ Decent in Bash Scripting & also Just Love to Make those things which breaks thin
 - 👨‍💻 How to **Hire me** : [Fiverr]([https://www.upwork.com/freelancers/~01ee80593d3e8f9387](https://de.fiverr.com/mia728ab))
 - 💻 Linkedin Profile: [Linkedin](https://www.linkedin.com/miaseemann/)
 - 💻 Verwaltende Web Shops:
-- - [Möbel-Krüger](https://www.moebel-krueger.de/)
-- - [Möbel-Günter](https://www.moebel-guenter.de/)
-- - [Möbel-Top24](https://www.moebel-top24.de/)
-- - [Möbel Vielfalt](https://www.moebelvielfalt.de/)
-- - [Möbelfant](https://www.moebelfant.de/)
+- 🛒 [Möbel-Krüger](https://www.moebel-krueger.de/)
+- 🛒 [Möbel-Günter](https://www.moebel-guenter.de/)
+- 🛒 [Möbel-Top24](https://www.moebel-top24.de/)
+- 🛒 [Möbel Vielfalt](https://www.moebelvielfalt.de/)
+- 🛒 [Möbelfant](https://www.moebelfant.de/)
 
 
 <details open>
